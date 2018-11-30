@@ -1,0 +1,16 @@
+{
+  "name": "@appen/at-mock",
+  "version": "0.1.0-dev",
+  "description": "A mock library for at",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cg1101/at-mock.git"
+  },
+  "keywords": ["at-mock"],
+  "author": "CHENG, Gang <cg1101@gmail.com>",
+  "license": "ISC"
+}

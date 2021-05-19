@@ -10,7 +10,19 @@
     "type": "git",
     "url": "https://github.com/cg1101/at-mock.git"
   },
-  "keywords": ["at-mock"],
+  "keywords": [
+    "at-mock"
+  ],
   "author": "CHENG, Gang <cg1101@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "commitizen": "^4.2.4",
+    "cz-conventional-changelog": "^3.2.0",
+    "semantic-release": "^17.4.3"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
 }
